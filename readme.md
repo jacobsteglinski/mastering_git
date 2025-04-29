@@ -1,4 +1,4 @@
 ## HELLO GIT!
 
-- I'm adding thus from
+- I'm adding this from
 `feautre-branch`

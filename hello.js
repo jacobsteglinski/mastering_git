@@ -12,3 +12,6 @@ console.log('com1');
 //bug fix1
 // bug fix2
 //bug fix3
+
+console.log('com2');
+console.log('com3');

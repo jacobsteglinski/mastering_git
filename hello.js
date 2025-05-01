@@ -1,4 +1,6 @@
 console.log('HELLO, GIT!');
+
+// changes to the code
 console.log('com1');
 
 //my code im currently working on
